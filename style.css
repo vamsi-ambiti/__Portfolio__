@@ -1,0 +1,166 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&family=Bebas+Neue&display=swap');
+
+:root{
+  --bg:#09090B;
+  --card:#18181B;
+  --green:#A3E635;
+  --orange:#F97316;
+  --white:#fff;
+  --gray:#9CA3AF;
+  --border:rgba(255,255,255,.09);
+}
+
+*{margin:0;padding:0;box-sizing:border-box;scroll-behavior:smooth;}
+html{width:100%;overflow-x:hidden;}
+body{min-width:0;width:100%;background:var(--bg);color:var(--white);font-family:Poppins,sans-serif;overflow-x:hidden;}
+a{text-decoration:none;color:inherit;}
+img{display:block;max-width:100%;}
+
+.blur{position:fixed;width:350px;height:350px;border-radius:50%;filter:blur(140px);z-index:-1;pointer-events:none;}
+.blur1{background:#A3E63555;top:-100px;left:-120px;}
+.blur2{background:#F9731655;right:-120px;bottom:-100px;}
+
+header{
+  width:100%;height:80px;display:flex;justify-content:space-between;align-items:center;
+  padding:0 8%;position:fixed;top:0;left:0;backdrop-filter:blur(18px);
+  background:rgba(0,0,0,.55);border-bottom:1px solid var(--border);z-index:999;
+}
+.logo{font-size:32px;color:var(--green);font-family:'Bebas Neue';letter-spacing:3px;}
+.resume-btn{background:var(--green);color:#000;padding:12px 22px;border-radius:30px;font-weight:600;transition:.3s;white-space:nowrap;}
+.resume-btn:hover{transform:translateY(-3px);box-shadow:0 0 30px #A3E63566;}
+
+.hero{
+  width:100%;min-height:100vh;display:flex;align-items:center;justify-content:space-between;
+  padding:120px 8% 70px;gap:60px;
+}
+.hero-left{width:55%;min-width:0;}
+.hello{color:var(--green);font-size:18px;letter-spacing:2px;margin-bottom:20px;}
+.hero h1{font-size:clamp(62px,7vw,95px);font-family:'Bebas Neue';line-height:.95;}
+.hero h1 span{display:block;color:var(--green);}
+.hero h3{margin-top:25px;font-size:28px;color:var(--orange);min-height:42px;}
+.hero p{margin-top:20px;color:var(--gray);line-height:32px;max-width:550px;}
+.buttons{margin-top:40px;display:flex;flex-wrap:wrap;gap:12px;}
+.btn1{background:var(--green);color:#000;padding:14px 24px;border-radius:40px;font-weight:600;transition:.3s;}
+.btn1:hover{transform:translateY(-3px);box-shadow:0 10px 25px #A3E63522;}
+.social{display:flex;gap:14px;margin-top:35px;}
+.social a{width:52px;height:52px;border-radius:50%;background:#18181B;display:flex;align-items:center;justify-content:center;color:#fff;font-size:20px;border:1px solid var(--border);transition:.3s;}
+.social a:hover{background:var(--green);color:#000;transform:translateY(-5px);}
+
+.hero-right{width:40%;display:flex;justify-content:center;min-width:0;}
+.image-box{width:min(420px,100%);aspect-ratio:1/1;border-radius:30px;overflow:hidden;border:3px solid var(--green);background:#18181B;box-shadow:0 0 40px rgba(163,230,53,.25);}
+.image-box img{width:100%;height:100%;object-fit:cover;}
+
+.bento{
+  width:100%;max-width:1500px;margin:0 auto;padding:60px 8% 90px;
+  display:grid;grid-template-columns:repeat(12,minmax(0,1fr));gap:25px;
+}
+.card{
+  min-width:0;background:rgba(255,255,255,.04);border:1px solid var(--border);border-radius:28px;
+  padding:30px;backdrop-filter:blur(18px);transition:transform .35s,box-shadow .35s;overflow:hidden;position:relative;
+}
+.card:hover{transform:translateY(-8px);box-shadow:0 20px 40px rgba(163,230,53,.15);}
+
+.about-card{grid-column:span 8;min-height:320px;}
+.tag{display:inline-block;padding:8px 18px;border-radius:30px;background:var(--green);color:#000;font-size:14px;font-weight:600;margin-bottom:25px;}
+.about-card h2{font-size:clamp(30px,3.2vw,42px);line-height:1.25;margin-bottom:20px;}
+.about-card p{color:var(--gray);line-height:30px;}
+
+.profile-card{grid-column:span 4;display:flex;justify-content:center;align-items:center;min-height:320px;}
+.profile-card img{width:100%;height:100%;max-height:420px;object-fit:cover;border-radius:20px;}
+
+.skill-card{grid-column:span 6;display:block;}
+.skill-card h3{margin-bottom:22px;}
+.skill-box{display:flex;flex-wrap:wrap;gap:12px;}
+.skill-box span{background:#242424;color:#fff;padding:11px 18px;border-radius:40px;border:1px solid transparent;transition:.3s;}
+.skill-box span:hover{background:var(--green);color:#000;border-color:#fff;}
+
+.experience{grid-column:span 3;}
+.experience h3{color:var(--gray);}
+.experience h1{font-size:clamp(48px,5vw,70px);color:var(--green);margin:15px 0;}
+.experience p{font-size:18px;}
+.experience span{display:block;margin-top:12px;color:var(--gray);}
+
+.project-card{grid-column:span 12;display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:35px;align-items:center;}
+.project-card img{width:100%;max-height:400px;object-fit:contain;border-radius:22px;}
+.project-content{min-width:0;}
+.project-content h2{font-size:clamp(30px,3vw,38px);margin-bottom:20px;}
+.project-content p{color:var(--gray);line-height:30px;}
+.project-tags{display:flex;flex-wrap:wrap;gap:10px;margin-top:25px;}
+.project-tags span{background:#111;padding:9px 15px;border-radius:25px;border:1px solid var(--border);font-size:14px;}
+.project-btn{display:flex;flex-wrap:wrap;gap:12px;margin-top:30px;}
+.project-btn a{padding:13px 25px;border-radius:35px;background:var(--green);color:#000;font-weight:600;transition:.3s;}
+.project-btn a:hover{transform:translateY(-4px);}
+
+.resume-card{grid-column:span 4;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;min-height:250px;}
+.resume-card i{font-size:65px;color:var(--green);margin-bottom:20px;}
+.resume-card h2{margin-bottom:20px;}
+.resume-card a{background:var(--green);color:#000;padding:13px 25px;border-radius:30px;font-weight:600;}
+
+.contact-card{grid-column:span 8;display:flex;flex-direction:column;justify-content:center;min-height:250px;}
+.contact-card h2{margin-bottom:20px;font-size:clamp(28px,3vw,40px);}
+.contact-card p{margin:10px 0;color:var(--gray);overflow-wrap:anywhere;}
+
+.cursor-glow{position:fixed;width:220px;height:220px;border-radius:50%;background:radial-gradient(circle,#A3E63533 0%,transparent 70%);pointer-events:none;transform:translate(-50%,-50%);filter:blur(40px);z-index:-1;}
+.show{opacity:1;transform:translateY(0);}
+
+@media (max-width:1100px){
+  header{padding:0 5%;}
+  .hero{padding:110px 5% 60px;gap:35px;}
+  .hero h1{font-size:clamp(60px,8vw,78px);}
+  .image-box{max-width:340px;}
+  .bento{padding:50px 5% 70px;gap:20px;}
+}
+
+@media (max-width:800px){
+  header{height:68px;padding:0 20px;}
+  .logo{font-size:25px;letter-spacing:2px;}
+  .resume-btn{padding:9px 15px;font-size:13px;}
+
+  .hero{min-height:auto;padding:105px 20px 50px;flex-direction:column;text-align:center;gap:35px;}
+  .hero-left,.hero-right{width:100%;}
+  .hero-left{display:flex;flex-direction:column;align-items:center;}
+  .hero-right{order:-1;}
+  .image-box{width:min(78vw,330px);max-width:none;}
+  .hero h1{font-size:clamp(56px,16vw,78px);line-height:.9;}
+  .hero h3{font-size:22px;margin-top:18px;}
+  .hero p{font-size:15px;line-height:26px;}
+  .buttons{width:100%;max-width:520px;flex-direction:column;gap:10px;margin-top:28px;}
+  .btn1{width:100%;padding:13px 18px;}
+  .social{margin-top:25px;}
+
+  .bento{padding:25px 20px 60px;grid-template-columns:1fr;gap:16px;}
+  .card,.about-card,.profile-card,.skill-card,.experience,.project-card,.resume-card,.contact-card{grid-column:1 / -1;width:100%;}
+  .card{padding:22px;border-radius:22px;}
+  .about-card{min-height:auto;}
+  .about-card h2{font-size:clamp(29px,8vw,42px);line-height:1.2;}
+  .about-card p{font-size:14px;line-height:25px;}
+  .profile-card{min-height:280px;}
+  .skill-box{gap:9px;}
+  .skill-box span{padding:9px 14px;font-size:13px;}
+  .experience h1{font-size:clamp(48px,14vw,70px);}
+  .project-card{display:flex;flex-direction:column;gap:24px;align-items:stretch;}
+  .project-card img{max-height:260px;}
+  .project-content p{font-size:14px;line-height:25px;}
+  .project-btn{flex-direction:column;gap:10px;margin-top:24px;}
+  .project-btn a{width:100%;text-align:center;}
+  .resume-card{min-height:220px;}
+}
+
+@media (max-width:420px){
+  header{padding:0 14px;}
+  .logo{font-size:22px;}
+  .resume-btn{padding:8px 12px;}
+  .hero{padding-left:14px;padding-right:14px;}
+  .bento{padding-left:14px;padding-right:14px;}
+  .card{padding:18px;}
+  .tag{font-size:12px;padding:7px 13px;}
+  .profile-card{min-height:250px;}
+}
+
+@media (hover:none),(pointer:coarse){
+  .card:hover,.social a:hover,.resume-btn:hover,.project-btn a:hover,.btn1:hover{transform:none;box-shadow:none;}
+}
+
+@media (prefers-reduced-motion:reduce){
+  *,*::before,*::after{scroll-behavior:auto!important;animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important;}
+}

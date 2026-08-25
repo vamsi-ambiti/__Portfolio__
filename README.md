@@ -1,203 +1,231 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A3E635,100:F97316&height=240&section=header&text=AMBΙTI%20SAI%20VAMSI&fontSize=50&fontColor=0D0D0D&fontAlignY=38&desc=Python%20Developer%20%7C%20MCA%20Student%20%7C%20Web%20Developer&descAlignY=60&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:2563EB&height=230&section=header&text=Ambiti%20Sai%20Vamsi&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Python%20Developer%20%7C%20Web%20Developer%20%7C%20MCA%20Student&descAlignY=60&descSize=19&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=25&duration=2800&pause=900&color=A3E635&center=true&vCenter=true&width=800&height=60&lines=Hey+there!+I'm+Ambiti+Sai+Vamsi+%F0%9F%91%8B;Python+Developer+%F0%9F%90%8D;MCA+Student+%F0%9F%8E%93;Building+Modern+%26+Responsive+Web+Apps+%F0%9F%92%BB;Turning+Ideas+Into+Working+Projects+%F0%9F%9A%80" />
+<br>
 
-<br/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=3000&pause=1000&color=60A5FA&center=true&vCenter=true&width=750&height=50&lines=Python+Developer;Building+Modern+Web+Applications;MCA+Student+%7C+Software+Development+Enthusiast;Learning+%E2%80%A2+Building+%E2%80%A2+Improving" />
+
+<br><br>
 
 <a href="https://ambiti-sai-vamsi.vercel.app">
-<img src="https://img.shields.io/badge/%F0%9F%8C%90%20PORTFOLIO-VIEW%20PORTFOLIO-A3E635?style=for-the-badge&labelColor=0D0D0D"/>
-</a>
-
-<a href="mailto:vamsiambiti@gmail.com">
-<img src="https://img.shields.io/badge/%F0%9F%93%A7%20EMAIL-CONTACT%20ME-F97316?style=for-the-badge&labelColor=0D0D0D"/>
-</a>
-
-<a href="https://www.linkedin.com/in/ambiti-sai-vamsi-0a7a5a261">
-<img src="https://img.shields.io/badge/%F0%9F%92%BC%20LINKEDIN-CONNECT-0A66C2?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/vamsi-ambiti">
-<img src="https://img.shields.io/badge/%F0%9F%90%99%20GITHUB-FOLLOW-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="https://www.linkedin.com/in/ambiti-sai-vamsi-0a7a5a261">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-<img src="https://komarev.com/ghpvc/?username=vamsi-ambiti&label=PROFILE%20VIEWS&color=A3E635&style=for-the-badge"/>
+<a href="mailto:vamsiambiti@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://komarev.com/ghpvc/?username=vamsi-ambiti&label=PROFILE%20VIEWS&color=2563EB&style=flat-square"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+# 👨‍💻 About Me
 
-```python
-class AmbitiSaiVamsi:
+Hello! I'm **Ambiti Sai Vamsi**, a **Python Developer and MCA student** passionate about software development and modern web technologies.
 
-    name = "Ambiti Sai Vamsi"
-    role = "Python Developer"
-    education = "MCA Student"
-    background = "BCA - Data Science"
+I enjoy transforming ideas into practical applications with clean interfaces, reliable functionality, and user-focused experiences.
 
-    languages = [
-        "Python",
-        "JavaScript",
-        "HTML",
-        "CSS",
-        "SQL"
-    ]
-
-    interests = [
-        "Web Development",
-        "Backend Development",
-        "UI/UX",
-        "Database Management",
-        "Automation"
-    ]
-
-    currently_learning = [
-        "Advanced Python",
-        "Full Stack Development",
-        "APIs",
-        "Cloud Technologies"
-    ]
-
-    goal = "Build useful software that solves real problems 🚀"
+```text
+┌─────────────────────────────────────────────────────┐
+│                                                     │
+│  👨‍💻  Python Developer                             │
+│  🎓  MCA Student                                    │
+│  🌐  Web Development                                │
+│  🗄️  Database & Backend Development                │
+│  🚀  Building Real-World Projects                  │
+│                                                     │
+└─────────────────────────────────────────────────────┘
 ```
 
+### Currently focused on
+
+* 🐍 Python Development
+* 🌐 Responsive Web Applications
+* 🗄️ MySQL & Database Management
+* 🔌 APIs & Backend Development
+* 🔥 Firebase
+* 🚀 Real-world software projects
+
 ---
 
-## ⚡ Tech Stack
+# 🛠️ Technical Skills
 
 <div align="center">
 
-### 💻 Languages & Web
+### Languages
 
-<img src="https://skillicons.dev/icons?i=python,html,css,js,mysql&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=python,js,html,css&theme=dark"/>
 
-### 🛠️ Tools & Technologies
+### Database & Backend
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel&theme=dark&perline=5"/>
+<img src="https://skillicons.dev/icons?i=mysql,firebase&theme=dark"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark"/>
 
 </div>
 
 ---
 
-## 🎓 Education
+# 🎓 Education
 
 <div align="center">
 
-|        🎓 Degree       | 🏫 Institution         |     📅 Year    |
-| :--------------------: | :--------------------- | :------------: |
-|         **MCA**        | MITS Deemed University | 2025 — Present |
-| **BCA — Data Science** | SeiCom Degree College  |      2025      |
-|      **BCA CGPA**      | **8.00**               |        —       |
+### 🎓 Master of Computer Applications — MCA
+
+**MITS Deemed University**
+
+`2025 — Present`
+
+<br>
+
+### 🎓 Bachelor of Computer Applications — Data Science
+
+**SeiCom Degree College**
+
+`2025`
+
+**CGPA: 8.00**
 
 </div>
 
 ---
 
-## 🚀 Featured Project
+# 🚀 Featured Project
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0D0D0D&height=100&text=ASHWA%20LOGISTICS&fontSize=35&fontColor=A3E635&animation=fadeIn" width="90%"/>
+## ASHWA LOGISTICS
 
-### 🚚 Modern Logistics Management Platform
+### Logistics Management Platform
 
-A modern web-based logistics platform designed to simplify:
+A modern web application designed to manage logistics operations and provide customers with a simple digital experience.
 
-`Customer Registration` • `Order Booking` • `Shipment Tracking` • `Data Management`
+**Key Features**
 
-### 🧰 Built With
+`Customer Registration`
+
+`Order Booking`
+
+`Shipment Management`
+
+`Tracking`
+
+`Firebase Integration`
+
+<br>
 
 <img src="https://skillicons.dev/icons?i=html,css,js,firebase&theme=dark"/>
 
-<br/><br/>
+<br><br>
 
 <a href="https://ashwa-logistics.vercel.app">
-<img src="https://img.shields.io/badge/%F0%9F%9A%80%20LIVE%20DEMO-VIEW%20PROJECT-A3E635?style=for-the-badge&labelColor=0D0D0D"/>
+<img src="https://img.shields.io/badge/LIVE%20DEMO-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 <a href="https://github.com/vamsi-ambiti/ASHWA_LOGISTICS">
-<img src="https://img.shields.io/badge/%F0%9F%90%99%20SOURCE%20CODE-GITHUB-181717?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SOURCE%20CODE-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
 
 ---
 
-## 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=vamsi-ambiti&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A3E635&icon_color=F97316&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vamsi-ambiti&show_icons=true&hide_border=true&bg_color=0F172A&title_color=60A5FA&icon_color=38BDF8&text_color=CBD5E1&count_private=true" height="180"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-ambiti&theme=radical&hide_border=true&background=0D0D0D&ring=A3E635&fire=F97316&currStreakLabel=A3E635" height="180"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-ambiti&hide_border=true&background=0F172A&ring=2563EB&fire=38BDF8&currStreakLabel=60A5FA&sideLabels=CBD5E1&dates=64748B" height="180"/>
 
-<br/>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-ambiti&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A3E635&text_color=FFFFFF" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-ambiti&layout=compact&hide_border=true&bg_color=0F172A&title_color=60A5FA&text_color=CBD5E1" height="170"/>
 
 </div>
 
 ---
 
-## 🐍 Contribution Activity
+# 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/vamsi-ambiti/vamsi-ambiti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vamsi-ambiti&bg_color=0F172A&color=60A5FA&line=2563EB&point=38BDF8&area=true&hide_border=true" width="95%"/>
 
 </div>
 
 ---
 
-## 💡 What I'm Working On
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/vamsi-ambiti/vamsi-ambiti/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+---
+
+# 💼 What I'm Looking For
 
 <div align="center">
 
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║   🐍 Improving Python Development Skills         ║
-║                                                  ║
-║   🌐 Building Responsive Web Applications        ║
-║                                                  ║
-║   🗄️ Working With Databases & APIs              ║
-║                                                  ║
-║   🚀 Creating Real-World Projects                ║
-║                                                  ║
-║   💼 Preparing For Software Development Roles    ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+Software Development
+        ↓
+Python Development
+        ↓
+Web Development
+        ↓
+Backend Development
+        ↓
+Real-World Projects
 ```
 
-</div>
-
----
-
-## 🎯 Developer Journey
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=1000&color=F97316&center=true&vCenter=true&width=700&height=50&lines=Learn+%E2%86%92+Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Improve+%E2%86%92+Repeat+%F0%9F%94%A5;Code+Today.+Build+Tomorrow.+%F0%9F%9A%80;Every+Project+Is+Another+Step+Forward+%F0%9F%92%BB" />
+I'm currently open to **internships, entry-level opportunities, collaborations, and software development roles** where I can continue learning and contribute to meaningful projects.
 
 </div>
 
 ---
 
-## 📬 Let's Connect
+# 📚 Current Learning
 
 <div align="center">
 
-I'm currently open to **internships, collaborations, and entry-level opportunities** in Python and Web Development.
+|          Area          | Focus                             |
+| :--------------------: | :-------------------------------- |
+|      🐍 **Python**     | Application & Backend Development |
+|       🌐 **Web**       | Responsive & Modern UI            |
+|       🗄️ **SQL**      | Database Design & Queries         |
+|       🔌 **APIs**      | Integration & Backend Services    |
+|      ☁️ **Cloud**      | Deployment & Firebase             |
+| 🧠 **Problem Solving** | Logic & Programming               |
 
-<br/>
+</div>
 
-<a href="mailto:vamsiambiti@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+---
+
+# 📬 Connect With Me
+
+<div align="center">
+
+<a href="https://ambiti-sai-vamsi.vercel.app">
+<img src="https://img.shields.io/badge/🌐%20Portfolio-2563EB?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/ambiti-sai-vamsi-0a7a5a261">
@@ -205,19 +233,19 @@ I'm currently open to **internships, collaborations, and entry-level opportuniti
 </a>
 
 <a href="https://github.com/vamsi-ambiti">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://ambiti-sai-vamsi.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-A3E635?style=for-the-badge&logo=vercel&logoColor=0D0D0D"/>
+<a href="mailto:vamsiambiti@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<br/><br/>
+<br><br>
 
-### ⭐ Thanks for visiting my profile!
+### Let's build something meaningful. 🚀
 
-<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=18&duration=3000&pause=1000&color=A3E635&center=true&vCenter=true&width=600&height=40&lines=Let's+build+something+awesome+together!+%F0%9F%9A%80;Keep+Learning.+Keep+Building.+Keep+Growing.+%F0%9F%94%A5"/>
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=17&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=650&height=40&lines=Thanks+for+visiting+my+profile!;Keep+Learning.+Keep+Building.+Keep+Growing." />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:F97316,100:A3E635&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1E3A8A,100:0F172A&height=130&section=footer" width="100%"/>

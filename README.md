@@ -79,32 +79,7 @@ Secure customer registration · Order booking · Real-time shipment tracking
 </a>
 
 </div>
-
 <br/>
-
-## 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=vamsi-ambiti&show_icons=true&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A3E635&icon_color=F97316&text_color=ffffff" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vamsi-ambiti&theme=radical&hide_border=true&background=0D0D0D&ring=A3E635&fire=F97316&currStreakLabel=A3E635" height="165"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vamsi-ambiti&layout=compact&theme=radical&hide_border=true&bg_color=0D0D0D&title_color=A3E635&text_color=ffffff" height="165"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/vamsi-ambiti/vamsi-ambiti/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-</div>
-
-> Note: the snake animation needs a one-time GitHub Action set up on your **profile repo** (`vamsi-ambiti/vamsi-ambiti`) — see the "Enable the snake animation" section below.
-
-<br/>
-
 ## 📬 Let's Connect
 
 <div align="center">
